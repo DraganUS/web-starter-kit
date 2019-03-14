@@ -1,0 +1,31 @@
+{
+  "name": "web-starter-kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DraganUS/web-starter-kit.git"
+  },
+  "keywords": [
+    "web",
+    "starter",
+    "kit"
+  ],
+  "author": "Dragan Usic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DraganUS/web-starter-kit/issues"
+  },
+  "homepage": "https://github.com/DraganUS/web-starter-kit#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
